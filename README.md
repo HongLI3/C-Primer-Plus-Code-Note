@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-这是C Primer Plus（第六版）的程序
+
+这是C Primer Plus（第六版）的程序库
 
 <!---
 HongLI3/HongLI3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
