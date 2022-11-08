@@ -1,0 +1,39 @@
+1.a.int,short
+  b.single,double
+  c.char
+  d.short,int
+2.在32位系统下
+3.long_32
+4.a.char
+  b.int,short
+  c.single,double
+  d.16位int,short
+  d.single,double
+5.第一行缺#
+第二行缺乏int mian(void)
+第四行rate没有初始化变量
+最后缺乏return 0;
+6.int %d
+  int %o
+  char %c
+  float double %f 
+  char %c
+  float doulde %f
+  longlong int %ld
+  float %f
+  double %f
+7.int %o
+  long single,long double %f
+  char %c
+  long %ld
+  char %c
+  float %f
+  int %o
+  int %d
+8.d ld f c
+9.char ch = '\n';
+10.#includle <stodio.h>
+第二行缺int
+第三行命名变量错误
+缺乏 return 0;
+11.
